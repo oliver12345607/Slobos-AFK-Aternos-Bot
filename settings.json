@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "XProjectX.aternos.me",
+    "ip": "swampfish.aternos.host:17810",
     "port": 17810,
     "version": "",
     "try-creative": false
